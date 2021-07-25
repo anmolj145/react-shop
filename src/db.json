@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Customer One",
+            "itemCount": 10,
+            "amount": 1200
+        },
+        {
+            "id": 1,
+            "name": "Customer Two",
+            "itemCount": 3,
+            "amount": 400
+        },
+        {
+            "id": 2,
+            "name": "Customer Three",
+            "itemCount": 5,
+            "amount": 2200
+        },
+        {
+            "id": 3,
+            "name": "Customer Four",
+            "itemCount": 10,
+            "amount": 120
+        }
+    ]
+}
